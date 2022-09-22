@@ -1,6 +1,6 @@
 # 🧱 Cellular-Automata-in-Voxel-World
 
-Using Unity 3D.  Procedurally generated voxel world with multithreaded mesh generation.  Ceullar automata included.
+Using Unity 3D, toss all files in Assets folder.  Procedurally generated voxel world with multithreaded mesh generation.  Ceullar automata included.
 
 ## 🔧 W.I.P.
 Project still contains many bugs: i.e. out of sync mesh rendering.
